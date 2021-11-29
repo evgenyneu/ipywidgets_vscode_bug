@@ -49,6 +49,8 @@ pip install -r requirements.txt
 
 * As you move the slider, the number is only printed out once and is not changing.
 
+![demo_m1.gif](images/demo_m1.gif)
+
 
 ## Hardware/Software versions
 
