@@ -1,5 +1,15 @@
 # Demo: Jupyter widget is not working in VSCode
 
+This is a demo that demonstrates a bug with widgets in Jupyter notebook in VSCode.
+
+
+## Clone the repository
+
+```
+git clone https://github.com/evgenyneu/ipywidgets_vscode_bug.git
+cd ipywidgets_vscode_bug
+```
+
 ## Install
 
 ### Install Python 3.9.5 with [ASDF](https://asdf-vm.com)
