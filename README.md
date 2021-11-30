@@ -27,8 +27,8 @@ python -m venv .venv
 Activate environment:
 
 ```
- . .venv/bin/activate
- ```
+. .venv/bin/activate
+```
 
 
 ### Install Python libraries
